@@ -1,0 +1,6 @@
+__pycache__/
+build/
+env/
+env3/
+src/
+*.sw[op]
